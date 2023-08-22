@@ -13,28 +13,28 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
+    "name": "雪儿",
+    "email": "1905672358@qq.com",
+    "mobile": "18811523998",
+    "github": "",
+    "zhihu": "",
     "workExpYear": ""
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
+        "2015.09.01",
         "2018.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
+      "school": "华北电力大学",
+      "major": "电子与通信工程",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
     {
       "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_time": "2013"
     },
     {
       "award_info": "蚂蚁近卫军 卓越个人奖",
@@ -51,8 +51,8 @@
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
+      "company_name": "华为技术有限公司",
+      "department_name": "网络安全部",
       "work_time": [
         "2018.06",
         null
